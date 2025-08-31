@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Log, temp, and runtime files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Minecraft-specific caches/configs
+*.dat
+*.json
+*.lock
+/config/
